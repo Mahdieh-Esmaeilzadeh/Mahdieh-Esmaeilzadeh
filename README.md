@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahdieh-Esmaeilzadeh
+- 👋 Hi, I’m @Mahdieh
 - 👀 I’m interested in new Ideas :)
 - 🌱 I’m currently learning data analysis, ML algorithms and DL algorithms
 - 💞️ I’m looking to collaborate on data analysis
